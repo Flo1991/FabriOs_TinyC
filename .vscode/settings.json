@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "common.h": "c",
+        "schm.h": "c",
+        "appl_main.h": "c"
+    }
+}
